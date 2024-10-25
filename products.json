@@ -1,23 +1,28 @@
 [
-    {
-      "name": "LGSK Hoodie",
-      "images": ["P01.png", "P02.png"],
-      "price": 499000
-    },
-    {
-      "name": "Retro Vibe Hoodie",
-      "images": ["P03.png", "P04.png"],
-      "price": 499000
-    },
-    {
-      "name": "Bold Essence Sweater",
-      "images": ["P05.png", "P06.png"],
-      "price": 399000
-    },
-    {
-      "name": "Winter Essence",
-      "images": ["P07.png", "P08.png"],
-      "price": 399000
-    }
-  ]
+  {
+    "name": "LGSK Hoodie",
+    "price": 499000,
+    "imageUrl": "https://adity12345a.github.io/product-data/images/P01.png"
+    "imageUrl": "https://adity12345a.github.io/product-data/images/P02.png"
+  },
+  {
+    "name": "Retro Vibe Hoodie",
+    "price": 499000,
+    "imageUrl": "https://adity12345a.github.io/product-data/images/P03.png"
+    "imageUrl": "https://adity12345a.github.io/product-data/images/P04.png"
+  },
+  {
+    "name": "Retro Vibe Hoodie",
+    "price": 499000,
+    "imageUrl": "https://adity12345a.github.io/product-data/images/P05.png"
+    "imageUrl": "https://adity12345a.github.io/product-data/images/P06.png"
+  },
+  {
+    "name": "Retro Vibe Hoodie",
+    "price": 499000,
+    "imageUrl": "https://adity12345a.github.io/product-data/images/P07.png"
+    "imageUrl": "https://adity12345a.github.io/product-data/images/P08.png"
+  }
+]
+
   
