@@ -1,23 +1,13 @@
 [
   {
     "name": "LGSK Hoodie",
-    "imageUrl": "https://adity12345a.github.io/product-data/images/P01.png",
+    "imageUrl": "https://adity12345a.github.io/product-data/images/assets/produk/P01.png",
     "price": 499000
   },
   {
     "name": "Retro Vibe Hoodie",
-    "imageUrl": "https://adity12345a.github.io/product-data/images/P02.png",
+    "imageUrl": "https://adity12345a.github.io/product-data/images/assets/produk/P02.png",
     "price": 499000
-  },
-  {
-    "name": "Bold Essence Sweater",
-    "imageUrl": "https://adity12345a.github.io/product-data/images/P03.png",
-    "price": 399000
-  },
-  {
-    "name": "Winter Essence",
-    "imageUrl": "https://adity12345a.github.io/product-data/images/P04.png",
-    "price": 399000
   }
 ]
 
